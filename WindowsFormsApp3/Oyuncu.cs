@@ -1,11 +1,11 @@
-﻿/****************************************************************************
+/****************************************************************************
 **					SAKARYA ÜNİVERSİTESİ
 **			BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
 **			    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
 **			   NESNEYE DAYALI PROGRAMLAMA DERSİ
 **					2019-2020 YAZ DÖNEMİ
 **	
-**	 			ÖDEV NUMARASI..........: Proje
+**	 			ÖDEV NUMARASI..........: Proje 1
 **				ÖĞRENCİ ADI............: Can Kurttekin
 **				ÖĞRENCİ NUMARASI.......: s191210679
 **              DERSİN ALINDIĞI GRUP...: 1.Öğretim A
@@ -19,8 +19,6 @@ namespace WindowsFormsApp3
         private string oncekiOyuncu;
         private int guncelOyuncuPuan;
         private int oncekiOyuncuPuan;
-        //private string guncelOyuncuKarakter;
-        //private string oncekiOyuncuKarakter;
 
         public string GuncelOyuncu { get => guncelOyuncu; set => guncelOyuncu = value; }
         public string OncekiOyuncu { get => oncekiOyuncu; set => oncekiOyuncu = value; }
